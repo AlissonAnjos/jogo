@@ -3,7 +3,7 @@ var acel = 2;
 var pos = {
   x:100,
   y:100
-}
+};
 var vel = {
   x:0,
   y:0
